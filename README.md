@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there 👋 I'm Isabel
 
-<!--
-**isabeelgarcia/isabeelgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I'm currently studing Pharmacy + Bioinformatics
+- 💻 Passionate about technology and its applications in biological sciences 
+- 📚 Currently expanding my programming knowledge  
+- 🚀 Constantly expanding my programming knowledge and improving code quality  
 
-Here are some ideas to get you started:
+## 🛠 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Biological Databases: UniProt, NCBI, GenBank
+- Statistical Software: Jamovi
+- Data Analysis Tools: Excel (Intermediate-Advanced)
+
+## 📚 I Want to Learn
+
+- Data Analysis Tools  
+- New programming languages such as C/C++, R, and others
+
+## 🧪 Areas of Interest
+- Bioinformatics  
+- Computational Biology  
+- Data Analysis  
+- Pharmaceutical Research  
+- Drug Discovery  
+- Computational Drug Design  
+- Health Technology 
+
+## 🔆 Goals
+- Learn multiple programming languages  
+- Improve code quality
+- Work on projects that combine biology, technology, and pharmaceutical sciences  
+- Contribute to research or innovative healthcare solutions
+  
