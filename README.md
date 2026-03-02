@@ -3,7 +3,7 @@
 - 🎓 I'm currently studing Pharmacy + Bioinformatics
 - 💻 Passionate about technology and its applications in biological sciences 
 - 📖 Currently expanding my programming knowledge  
-- 🚀 Constantly expanding my programming knowledge and improving code quality  
+- 🚀 Wanting to expand my programming knowledge and improve my code quality  
 
 ## 🛠 Technical Skills
 
