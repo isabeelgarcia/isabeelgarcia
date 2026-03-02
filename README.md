@@ -2,7 +2,7 @@
 
 - 🎓 I'm currently studing Pharmacy + Bioinformatics
 - 💻 Passionate about technology and its applications in biological sciences 
-- 📚 Currently expanding my programming knowledge  
+- 📖 Currently expanding my programming knowledge  
 - 🚀 Constantly expanding my programming knowledge and improving code quality  
 
 ## 🛠 Technical Skills
@@ -12,7 +12,7 @@
 - Statistical Software: Jamovi
 - Data Analysis Tools: Excel (Intermediate-Advanced)
 
-## 📚 I Want to Learn
+## 📖 I Want to Learn
 
 - Data Analysis Tools  
 - New programming languages such as C/C++, R, and others
